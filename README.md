@@ -1,1 +1,3 @@
-# Programmig_Cpp
+# Simple_Calculator
+
+## Project made in Visual Studio
