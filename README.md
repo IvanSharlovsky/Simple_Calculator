@@ -1,3 +1,3 @@
 # Simple_Calculator
 
-## Project made in Visual Studio
+## Tutorial project made in Visual Studio
